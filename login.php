@@ -3,10 +3,6 @@
    $usuario = trim($_POST['usuario']); 
    $senha = md5(trim($_POST['senha']));
 
-/*    echo $usuario; 
-   echo "<br/> <br/>";
-   echo $senha;  */
-
    include 'conexao.php';
    $pdo = Conexao::conectar();
    $pdo->setAttribute(PDO:: ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -25,7 +21,3 @@
    } 
 
 ?>
-
-
-
-

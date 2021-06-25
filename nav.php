@@ -27,8 +27,8 @@
     </li>
 
     <li><a href="frmInsDentista.php"><i class="material-icons">person</i>Cadastrar Dentistas</a></li>
-    <li><a href="insSala.php"><i class="material-icons">airline_seat_recline_extra</i>Cadastrar Sala</a></li>
-    <li><a href="insSala.php"><i class="material-icons">library_books</i>Agendar Cirurgia</a></li>
+    <li><a href="frmInsSala.php"><i class="material-icons">airline_seat_recline_extra</i>Cadastrar Sala</a></li>
+    <li><a href="frmInsCirurgia.php"><i class="material-icons">library_books</i>Agendar Cirurgia</a></li>
     <li><div class="divider"></div></li>
 
     <li><a class="subheader"></a></li>

@@ -37,8 +37,8 @@
                 <form action="listarDentista.php" method="GET" id="frmBuscaDentista" class="col s12" >
                     <div class="input-field col s12">
                     <div class="dentista" type="button" onclick="JavaScript:location.href='listarDentista.php'"><img class="img_icon" src="img/dentista.png" height="100px" width="100px"> Ver Dentistas</div>
-                    <div class="salas" type="button" onclick="JavaScript:location.href='frmInsDentista.php'"><img class="img_icon" src="img/cadeira-de-dentista.png" height="100px" width="100px"> Ver Salas</div>
-                    <div class="cirurgias" type="button" onclick="JavaScript:location.href='frmInsDentista.php'"><img class="img_icon" src="img/sala-de-cirurgia.png" height="100px" width="100px"> Ver Cirurgias</div>
+                    <div class="salas" type="button" onclick="JavaScript:location.href='listarSalas.php'"><img class="img_icon" src="img/cadeira-de-dentista.png" height="100px" width="100px"> Ver Salas</div>
+                    <div class="cirurgias" type="button" onclick="JavaScript:location.href='listarCirurgia.php'"><img class="img_icon" src="img/sala-de-cirurgia.png" height="100px" width="100px"> Ver Cirurgias</div>
                     </div>
                 </form>
             </div>
